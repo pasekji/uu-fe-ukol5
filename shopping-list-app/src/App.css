@@ -1,0 +1,23 @@
+.app-container {
+  margin: 0 auto;
+  width: 80%;
+  padding: 20px;
+}
+
+.list-section {
+  margin-top: 20px;
+}
+
+.app-container.light {
+  background-color: #fff;
+  color: #333;
+}
+
+.app-container.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.theme-toggle-wrapper {
+  text-align: right;
+}
